@@ -1,0 +1,9 @@
+streamlit
+playwright
+transformers
+scikit-learn
+pandas
+fpdf
+pyyaml
+accelerate
+datasets
